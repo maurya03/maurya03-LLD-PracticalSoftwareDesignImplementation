@@ -10,7 +10,6 @@ public class Main {
             git log
             git branch <branchName>
             git checkout <BranchName>
-
          */
     }
 }
