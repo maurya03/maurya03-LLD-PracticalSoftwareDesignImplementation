@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LLD-PracticalSoftwareDesignPattern.iml" filepath="$PROJECT_DIR$/LLD-PracticalSoftwareDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tic-Tac-Toe/Tic-Tac-Toe.iml" filepath="$PROJECT_DIR$/Tic-Tac-Toe/Tic-Tac-Toe.iml" />
     </modules>
   </component>
 </project>
